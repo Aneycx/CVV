@@ -18,9 +18,16 @@ Telegram: @aneycx
 - Fur Elise - Beethoven
 - Experience - Ludovico Einaudi
 - Still Dre - Dr. Dre and Other
-
+##
 ### Sheets exampple:
 
 Below is a fragment of notes from the composition "Experience". In my opinion, one of the most beautiful passages of this work.
 
 ![Image alt](https://github.com/Aneycx/CVV/blob/markdown_CVV/sheets.png)
+
+This part may look a little complicated, but it's actually not that hard. If a softening piano pedal is added to the combination of these notes, then the composition will become more melodic and soft, all its sounds will merge.
+
+## In conclusion:
+I want to say that music is wonderful, and if you wake up with a desire to learn and play something, then you can find sheet music on this site 
+
+[Musescore](https://musescore.com/sheetmusic)
