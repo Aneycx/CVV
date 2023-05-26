@@ -22,3 +22,5 @@ Telegram: @aneycx
 ### Sheets exampple:
 
 Below is a fragment of notes from the composition "Experience". In my opinion, one of the most beautiful passages of this work.
+
+![Image alt](https://github.com/Aneycx/CVV/blob/markdown_CVV/sheets.png)
