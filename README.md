@@ -1,2 +1,2 @@
 # CVV
-https://Aneycx.github.io/cvv/cvv
+https://Aneycx.github.io/CVV/CVV
